@@ -1,13 +1,15 @@
 # Hi, I'm Alice  👋
 
-👩🏻‍💻 Daily working on :
+I am a FullStack Developer from Chambéry ⛰️
+
+👩🏻‍💻 I’m daily working on :
 - TypeScript
 - Vue
 - Gitlab
 - AWS
 
-🌱 Growing on :
+🌱 And growing on :
 - Java
+- Spring Boot
 
-🚀 Looking forward to have a look at :
-- Helm
+I’m looking forward to collaborate on **Java, Springboot and/or Python**
