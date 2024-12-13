@@ -1,6 +1,8 @@
 # Hi, I'm Alice  👋
 
-I am a FullStack Developer from Chambéry ⛰️
+### Full-Stack Developer | DevOps Enthusiast | Mountain Lover  
+
+I’m a ***code-enthusiast engineer*** with rich and diverse experience in building and maintaining scalable applications. I specialize in full-stack development while integrating DevOps practices to optimize workflow and ensure seamless deployments.
 
 👩🏻‍💻 I’m daily working on :
 - TypeScript
@@ -10,6 +12,5 @@ I am a FullStack Developer from Chambéry ⛰️
 
 🌱 And growing on :
 - Java
+- Python
 - Spring Boot
-
-I’m looking forward to collaborate on **Java, Springboot and/or Python**
